@@ -1,0 +1,26 @@
+_repo: Ireland-as-It-IsAnd-as-It-Would-be-Under-Home-Rule_29710
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buckley, Robert John
+    gutenberg_agent_id: '34100'
+    url: http://www.gutenberg.org/2009/agents/34100
+description: ''
+gutenberg_issued: '2009-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish question'
+- !lcsh 'Ireland -- Politics and government -- 1837-1901'
+- !lcsh 'Home rule -- Ireland'
+- !lcc 'DA'
+title: Ireland as It Is, and as It Would Be Under Home Rule
+url: http://www.gutenberg.org/ebooks/29710
